@@ -29,21 +29,21 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `June 2021 - Present`
 __KPMG LLC__, Rexburg, ID (Remote)
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Provide HTS classification for clients in a variety of industries
+- Create excel files and decision trees to simplify and automate the classification process
+- Collaborate and work with teammates on a daily basis
 
 ### Assistant Manager/Delivery Driver
 
 `March 2019 - June 2021`
 __Jimmy Johns__, Idaho Falls, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- 
+
+### Student Teacher
 
 `January 2019 - Decmeber 2019`
-__Good2Go__, Consultant
+__BYU-Idaho__, Consultant
 
 - Built product ordering and supply predictive algorithms for chips and beverages categories
 - Established standardized SQL calls and connections for PowerBI dashboards
