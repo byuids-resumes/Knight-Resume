@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Addison Knight's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Addison
+Senior at BYU-Idaho excited to enter the workforce
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,38 +16,33 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected July 2022 Graduation`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.28 Major GPA
 
 
 ## Related Experience
 
-### Internships
+### Business Analyst I
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`June 2021 - Present`
+__KPMG LLC__, Rexburg, ID (Remote)
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
 - Used R and Visual Sample Plan to establish new sampling algorithms
 - Published a journal article in Environmental Quality.
 
-### Data Science Lead
+### Assistant Manager/Delivery Driver
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`March 2019 - June 2021`
+__Jimmy Johns__, Idaho Falls, ID
 
 - Developed a predicted model to support Westmark in custumer conversion from dealer loans.
 - Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
 - Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
 
-`September 2027 - April 2028`
+`January 2019 - Decmeber 2019`
 __Good2Go__, Consultant
 
 - Built product ordering and supply predictive algorithms for chips and beverages categories
