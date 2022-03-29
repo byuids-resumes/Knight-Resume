@@ -5,10 +5,9 @@ title: Addison Knight's Resume
 # Addison Knight
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="addison.knight95@gmail.com">addison.knight95@gmail.com</a>
+| <a href="https://www.linkedin.com/in/addison-knight-60192858/">LinkedIn</a>
+| <a href="https://github.com/ak2knight">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -30,7 +29,7 @@ __West High School__, Salt Lake City, UT
 ## Related Experience
 
 `June 2021 - Current`
-__KPMG__, Rexburg, ID (REMOTE)
+__KPMG__, DC Analyst
 
 - Apply HTS classification for a myriad of clients in a variety of industries
 - Train and assist new employees on tariffs and interacting and building relationships with clients
