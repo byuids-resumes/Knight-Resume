@@ -55,7 +55,7 @@ __Farmington City__, Sports Camp Director
 `January 2020 - Current`
 __Tournament Organizer__, E-sports
 
-- Create and grow weekly E-sports tournaments ranging form 15 - 40 people
+- Create and grow weekly E-sports tournaments ranging from 15 - 40 people
 - Manage social media and groups to provide proper communication and marketing
 - Create excel stat files to compile list of the top players in the region
 
